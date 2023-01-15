@@ -1,2 +1,2 @@
 # hkRules
-JaveScript学习笔记
+JavaScript学习笔记
