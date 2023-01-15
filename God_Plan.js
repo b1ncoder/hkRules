@@ -1,4 +1,4 @@
-const BASE_URL = "https://github.com/b1ncoder/hkRules/new/main/"
+const BASE_URL = "https://github.com/b1ncoder/hkRules/tree/main"
 /* Base Function */
 
 /**
