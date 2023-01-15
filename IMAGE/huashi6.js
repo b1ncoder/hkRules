@@ -25,7 +25,8 @@ const baseParse = _ => {
         },*/
         {
             title: '今日榜单',
-            url: "https://rt.huashi6.com/front/works/rank_page?index=0&size=50",
+            //url: "https://rt.huashi6.com/front/works/rank_page?index=0&size=50",
+            url: "https://www.huashi6.com/rank/day",
         },
         {
             title: '推荐画师',
